@@ -33,3 +33,12 @@ Use of this repository or any derivative is strictly governed by:
 - GPG-signed certificate must remain intact
 
 Violations will trigger enforcement under **§ 102 and § 1201** of U.S. Copyright Law.
+
+## 📂 Verified Submodules Archived
+
+- [`Bitcoin PHP`](protocol_core/docs/README_BitcoinPHP.md)
+- [`Paranoid Ethereum Wallet`](wallet_clients/docs/README_Paranoid.md)
+- [`Ethers.js`](wallet_clients/docs/README_EthersJS.md)
+- [`CCXT Exchange API`](exchange_apis/docs/README_CCXT.md)
+- [`Telegram Bot Core`](comms/docs/README_TelegramBot.md)
+
